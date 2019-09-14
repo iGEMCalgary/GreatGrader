@@ -1,3 +1,6 @@
+Requirements:
+Windows 10 (64-bit).
+
 To install:
 Download this repository as a zip.
 Extract the 'Great Grader' folder in your system.
